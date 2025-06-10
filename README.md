@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Lennon! 👋
+Welcome to my GitHub! This README is a summary about me, my projects, and the technologies I work with.
+
+### About Me
+- 🔭 I am currently a Computer Science student in NUS.
+- ⚡ I have a strong passion for frontend development and design.
+- 🌱 I am always learning new ways to improve my designs for my sites and applications. 
+- 🤔 I am seeking support with anything UI/UX related, all insights will be greatly appreciated!
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lennon-leung-08aa1a36a/).
 
 <!--
 **lemonishi/lemonishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
